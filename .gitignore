@@ -1,0 +1,12 @@
+/key.txt
+/secret/
+/bublik.rar/
+/*.pyc
+/*.pyo
+/*.pyd
+/build/
+/dist/
+/*.egg-info
+/.venv
+/.idea/
+/*.log
